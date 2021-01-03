@@ -9,3 +9,6 @@ TODO: analyze the difference between splitting and summing priors
 # 2020.01.02 2020/11/1
 Is this a modified game of life?
 Regardless, I clearly wrote a bug in my implementation.
+
+# 2020.01.03 2020/11/1
+One catches bugs with more tests; I'll confirm each expected action occurs on the example input.
