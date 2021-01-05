@@ -12,3 +12,6 @@ Regardless, I clearly wrote a bug in my implementation.
 
 # 2020.01.03 2020/11/1
 One catches bugs with more tests; I'll confirm each expected action occurs on the example input.
+
+# 2020.01.04 2020/11/1
+Okay. An && needed to be an ||. That still doesn't fix everything - all seat fills are also seat empties in round 2. -.-
