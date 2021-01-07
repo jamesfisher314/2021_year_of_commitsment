@@ -18,3 +18,6 @@ Okay. An && needed to be an ||. That still doesn't fix everything - all seat fil
 
 # 2020.01.04 2020/11/1
 Day 4? Clearly shifting my sleep schedule 5 hours earlier is causing jet lag. It doesn't even seem to be a hard problem. Do I need to use object orientation?
+
+# 2020.01.01 2020/11/1
+Day 5. List comprehensions rather than OO. I've got like 10 articles open about Python memory management to read this weekend.
